@@ -123,13 +123,13 @@
                 android:layout_height="wrap_content" >
 
                 <Button
-                    android:id="@+id/buttonMainAuto"
+                    android:id="@+id/buttonMainCopy"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:layout_weight="0.5"
                     android:drawableTop="@drawable/write_tag"
-                    android:onClick="onShowAuto"
-                    android:text="@string/action_auto" />
+                    android:onClick="onShowCopy"
+                    android:text="@string/action_copy" />
 
             </LinearLayout>
 

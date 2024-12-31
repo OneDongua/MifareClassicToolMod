@@ -781,8 +781,8 @@ public class MainMenu extends AppCompatActivity {
     public void onShowTools(View view) {
         openContextMenu(view);
     }
-    
-    public void onShowAuto(View view) {
+
+    public void onShowCopy(View view) {
         Intent intent = new Intent(this, AutoMode.class);
         startActivity(intent);
     }

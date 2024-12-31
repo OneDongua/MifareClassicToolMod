@@ -5,7 +5,7 @@ plugins {
 
 android {
     compileSdk 34
-    namespace "de.syss.MifareClassicTool"
+    namespace "de.syss.MifareClassicToolMod"
 
     defaultConfig {
         applicationId "de.syss.MifareClassicToolMod"

@@ -23,7 +23,7 @@ import de.syss.MifareClassicTool.R;
  * read the tag.
  * @author Gerhard Klostermeier
  */
-public class AutoMode extends AppCompatActivity {
+public class CopyMode extends AppCompatActivity {
 
     private final static int KEY_MAP_CREATOR = 1;
 

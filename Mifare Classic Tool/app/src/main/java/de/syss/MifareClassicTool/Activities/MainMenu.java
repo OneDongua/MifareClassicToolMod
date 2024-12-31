@@ -781,6 +781,11 @@ public class MainMenu extends AppCompatActivity {
     public void onShowTools(View view) {
         openContextMenu(view);
     }
+    
+    public void onShowAuto(View view) {
+        Intent intent = new Intent(this, AutoMode.class);
+        startActivity(intent);
+    }
 
     /**
      * Open a file chooser ({@link FileChooser}). The

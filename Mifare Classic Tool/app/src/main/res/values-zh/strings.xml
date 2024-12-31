@@ -22,7 +22,7 @@
 <resources>
 
     <!-- Common stuff -->
-    <string name="app_name">MIFARE Classic Tool</string>
+    <string name="app_name">MIFARE Classic Tool Mod</string>
     <string name="app_version">App版本</string>
 
     <!-- Activity titles -->
@@ -206,6 +206,7 @@
     <string name="action_create_key_map">映射密钥到扇区</string>
     <string name="action_create_key_map_and_read">开始映射并读取标签</string>
     <string name="action_help">帮助信息</string>
+    <string name="action_auto">自动模式</string>
     <string name="action_editor_only">使用离线模式</string>
     <string name="action_ok">OK</string>
     <string name="action_cancel">取消</string>

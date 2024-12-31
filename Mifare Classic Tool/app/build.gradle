@@ -8,7 +8,7 @@ android {
     namespace "de.syss.MifareClassicTool"
 
     defaultConfig {
-        applicationId "de.syss.MifareClassicTool"
+        applicationId "de.syss.MifareClassicToolMod"
         minSdk 19
         targetSdk 34
         versionCode 68

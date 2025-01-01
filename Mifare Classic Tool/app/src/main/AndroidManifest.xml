@@ -142,7 +142,7 @@
             android:label="@string/title_activity_help" >
         </activity>
         <activity
-            android:name=".Activities.AutoMode"
+            android:name=".Activities.CopyMode"
             android:configChanges="orientation|screenSize"
             android:icon="@drawable/write_tag"
             android:label="@string/title_activity_write_tag" >

@@ -783,7 +783,7 @@ public class MainMenu extends AppCompatActivity {
     }
 
     public void onShowCopy(View view) {
-        Intent intent = new Intent(this, AutoMode.class);
+        Intent intent = new Intent(this, CopyMode.class);
         startActivity(intent);
     }
 

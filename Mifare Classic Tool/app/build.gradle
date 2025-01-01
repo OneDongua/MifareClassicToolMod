@@ -5,7 +5,7 @@ plugins {
 
 android {
     compileSdk 34
-    namespace "de.syss.MifareClassicToolMod"
+    namespace "de.syss.MifareClassicTool"
 
     defaultConfig {
         applicationId "de.syss.MifareClassicToolMod"
@@ -25,6 +25,10 @@ android {
             shrinkResources false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
+    }
+
+    kotlinOptions {
+        jvmTarget = "17"
     }
 }
 
